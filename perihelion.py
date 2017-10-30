@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 file = open(argv[1], 'r')
 n = int(file.readline())
 
-#Read number of lines in the text file
+#Read number of lines in the text file as numb
 with file as f:
     numb = sum(1 for _ in f)
 
