@@ -6,6 +6,6 @@ The object oriented code runs without any command line arguments and does not us
 
 The non-perihelion text files from the object oriented code contain lines of x-y coordinates for all the planets. 
 
-There are two python programs that create plots. Both of them read .txt files from the commandline. solar_system_plots.py plots takes data from the object oriented code and plots the positions of the planets. It also calculates the radial distance from the center of mass and plots that as a function of time.
+There are two python programs that create plots. Both of them read .txt files from the commandline. solar_system_plots.py plots takes data from the object oriented code and plots the positions of the planets. It also calculates the radial distance from the center of mass and plots that as a function of time. perihelion.py calculates the number of lines in the .txt file and then plots the perihelion angle as a function of time.
 
 Hey I'm sorry I didn't include a proper conclusion. Had a lot to do but that didn't happen. That's my bad.
